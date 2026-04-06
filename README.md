@@ -32,6 +32,8 @@ func isMetagrammN(s, t string,  n int) bool {
 
 ---
 
+### Команды для запуска решений
+
 go run ./cmd/metagram-one
 
 go run ./cmd/metagram-n
